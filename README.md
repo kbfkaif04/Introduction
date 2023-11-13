@@ -1,2 +1,4 @@
 # Introduction
-My first github repository.
+Khlaid Bin Faruk Kaif
+Uttara University
+Department of CSE
